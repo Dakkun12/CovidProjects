@@ -1,6 +1,6 @@
 ## COVID-19 Global Data Visualization using Tableau
 
-Aspiring Data Analyst: [Your Name]
+Aspiring Data Analyst: Gregory Hendrica
 
 In this project, I utilized Tableau for data visualization to create interactive and insightful visualizations from a COVID-19 global dataset. The dataset contains various attributes related to the COVID-19 pandemic, such as date, location, confirmed cases, deaths, and recoveries.
 
